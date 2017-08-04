@@ -1,0 +1,2163 @@
+Uhhuh. NMI received for unknown reason 00 on CPU 3.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 9.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 6.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 10.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 10.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 6.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 1.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 1.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 5.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 1.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 1.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 3.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 3.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 3.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 1.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 3.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 3.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 2.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 3.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 3.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 2.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 4.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 4.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 4.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 4.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 4.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 4.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 2.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 2.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 2.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 1.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 1.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 1.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 4.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 2.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 4.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 4.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 5.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 1.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 1.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 1.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 1.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 1.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 2.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 1.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 1.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 2.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 3.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 3.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 3.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 1.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 1.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 3.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 8.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 1.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 10.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 10.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 10.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 10.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 2.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 2.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 1.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 10.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 10.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 2.
+Uhhuh. NMI received for unknown reason 00 on CPU 1.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 1.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 10.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 3.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 2.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 3.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 8.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 11.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 11.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 6.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 2.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 8.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 6.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 6.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 6.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 1.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 8.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 9.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 1.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 1.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 1.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 3.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 10.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 11.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 5.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 9.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 6.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 5.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 10.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 3.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 1.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 2.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 2.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 9.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 9.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 4.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 5.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 2.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 2.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 2.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 10.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 1.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 3.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 1.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 6.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 6.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 3.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 5.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 9.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 8.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 5.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 6.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 9.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 11.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 6.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 2.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 6.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 1.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 5.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 1.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 8.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 9.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 10.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 11.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 3.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 5.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 1.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 11.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 6.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 3.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 3.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 3.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 4.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 1.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 3.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 10.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 11.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 1.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 4.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 1.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 4.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 1.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 1.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 9.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 8.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 3.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 1.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 3.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 9.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 3.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 2.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 3.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 10.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 4.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 2.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 11.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 9.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 2.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 2.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 4.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 3.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 9.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 8.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 9.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 9.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 5.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 1.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 3.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 3.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 2.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 5.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 1.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 8.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 4.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 9.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 6.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 11.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 2.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 8.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 1.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 1.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 9.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 11.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 5.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 11.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 1.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 11.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 2.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 4.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 9.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 5.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 8.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 8.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 9.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 5.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 1.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 1.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 1.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 2.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 2.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 8.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 5.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 8.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 6.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 4.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 10.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 10.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 9.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 4.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 3.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 4.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 9.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 8.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 8.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 11.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 5.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 3.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 1.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 8.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 3.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 11.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 3.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 4.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 6.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 11.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 11.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 9.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 4.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 8.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 2.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 2.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 6.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 4.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 10.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 11.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 8.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 11.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 3.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 1.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 10.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 3.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 1.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 5.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 11.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 5.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 8.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 8.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 11.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 3.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 3.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 5.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 11.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 3.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 1.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 1.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 10.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 4.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 2.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 2.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 3.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 4.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 4.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 3.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 6.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 2.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 3.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 9.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 4.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 9.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 1.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 2.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 3.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 2.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 5.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 3.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 9.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 4.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 6.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 1.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 4.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 6.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 3.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 9.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 6.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 3.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 4.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 6.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 3.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 5.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 8.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 4.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 8.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 9.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 8.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 10.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 3.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 11.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 8.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 5.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 1.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 10.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 10.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 6.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 1.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 8.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 2.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 2.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 1.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 8.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 8.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 10.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 2.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 9.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 2.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 5.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 2.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 8.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 9.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 8.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 4.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 4.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 8.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 1.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 9.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 4.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 2.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 2.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 6.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 11.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 11.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 3.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 8.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 2.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 2.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 3.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 6.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 1.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 8.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 3.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 10.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 11.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 5.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 6.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 5.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 9.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 3.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 5.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 5.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 4.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 1.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 5.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 8.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 6.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 7.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 8.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 6.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 6.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 10.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 2.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 3d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 5.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 00 on CPU 6.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue
+Uhhuh. NMI received for unknown reason 2d on CPU 0.
+Do you have a strange power saving mode enabled?
+Dazed and confused, but trying to continue

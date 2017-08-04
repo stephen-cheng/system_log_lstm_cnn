@@ -1,0 +1,27 @@
+application
+app
+seq_min_count
+segfault
+executable
+postcreate
+detected
+unhandled 
+python
+detected
+deleting 
+problem
+init
+entering
+main 
+loop
+...c clock_step
+...freq_mode
+client
+java
+xorg
+pulseaudio
+gtkwarning
+libgladewarning
+stress
+
+
