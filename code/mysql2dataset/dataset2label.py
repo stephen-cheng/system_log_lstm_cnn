@@ -64,6 +64,7 @@ def train_test_len():
   print('label len: ', i)
                  
 if __name__ == '__main__':
+  # labels = ['info', 'crit', 'err', 'notice', 'warning', 'alert', 'emerg']
   label_name = msg_label()
   #msg_classify(label_name)
   #msgX128(label_name)
