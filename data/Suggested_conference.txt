@@ -1,5 +1,4 @@
 APSEC2017	http://www.apsec2017.org/
-sosp17      http://www.sigops.org/sosp/sosp17/index.html
 icdcs2018   http://icdcs2018.ocg.at/
 ficc2018	http://saiconference.com/FICC
 
