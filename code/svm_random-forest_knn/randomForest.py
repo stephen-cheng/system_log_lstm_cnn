@@ -10,7 +10,7 @@ activity_label = {'1': 'info',
                   '4': 'notice',
                   '5': 'warning',
                   '6': 'alert',
-				  '7': 'emergency'}
+                  '7': 'emergency'}
 
 # Open data set
 X = []
@@ -88,11 +88,11 @@ for trees in n_estimators_list:
         best_param_rf = {"n_estimators": trees}
 
 rf_clf_test_score = RandomForestClassifier(n_estimators=best_param_rf.get("n_estimators"), max_depth=None,
-                    min_samples_split=2, random_state=0).fit(X_test, y_test).score(X_test, y_test)
+                    min_samples_split=2, random_state=0).fit(X_train, y_train).score(X_test, y_test)
 #print("Test set accuracy: ", rf_clf_test_score)
 
 rf_clf = RandomForestClassifier(n_estimators=best_param_rf.get("n_estimators"), max_depth=None, 
-         min_samples_split=2, random_state=0).fit(X, y)
+         min_samples_split=2, random_state=0).fit(X_train, y_train)
 
 #save trained model for future use.
 joblib.dump(rf_clf,'data/rf_clf.pkl', compress=9)

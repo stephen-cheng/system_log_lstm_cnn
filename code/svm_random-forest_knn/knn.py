@@ -9,7 +9,7 @@ activity_label = {'1': 'info',
                   '4': 'notice',
                   '5': 'warning',
                   '6': 'alert',
-				  '7': 'emergency'}
+                  '7': 'emergency'}
 
 # ############################# Open data set ###############################
 X = []
@@ -84,11 +84,9 @@ for n_neighbors in n_neighbors_list:
         max_score_knn = scores.mean()
         best_param_knn = {"n_neighbors": n_neighbors}
 
-knn_clf_test_score = KNeighborsClassifier(best_param_knn.get("n_neighbors")).fit(X_test, y_test).score(X_test, y_test)
-#print("Test set accuracy: ", knn_clf_test_score)
+knn_clf = KNeighborsClassifier(best_param_knn.get("n_neighbors")).fit(X_train, y_train)
+knn_clf_test_score = knn_clf.score(X_test, y_test)
 
-
-knn_clf = KNeighborsClassifier(best_param_knn.get("n_neighbors")).fit(X, y)
 count1 = 0
 count2 = 0
 actualist = []
@@ -106,7 +104,7 @@ for i in range(len(X_val)):
         count1 += 1
 
 print("Number of neighbors: ", len(n_neighbors_list))
-print("Results: ", result_n_neighbors)
+print("Train Results: ", result_n_neighbors)
 print("Best accuracy: ", max_score_knn)
 print("Best parameter: ", best_param_knn)
 print("Test set accuracy: ", knn_clf_test_score)

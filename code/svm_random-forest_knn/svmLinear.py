@@ -88,10 +88,10 @@ print("result:", result_linear)
 best_param_linear = {"C": 1}
 
 
-linear_test_score = svm.SVC(kernel='linear', C=best_param_linear.get("C")).fit(X_test, y_test).score(X_test, y_test)
+linear_test_score = svm.SVC(kernel='linear', C=best_param_linear.get("C")).fit(X_train, y_train).score(X_test, y_test)
 #rbf_test_score = svm.SVC(kernel='rbf', C=best_param_rbf.get("C"), gamma=best_param_rbf.get("gamma")).fit(X_test, y_test).score(X_test, y_test)
 #poly_test_score = svm.SVC(kernel='poly', C=best_param_poly.get("C"), degree=best_param_poly.get("degree")).fit(X_test, y_test).score(X_test, y_test)
-linear_test = svm.SVC(kernel='linear', C=best_param_linear.get("C")).fit(X, y)
+linear_test = svm.SVC(kernel='linear', C=best_param_linear.get("C")).fit(X_train, y_train)
 
 count1 = 0
 count2 = 0
