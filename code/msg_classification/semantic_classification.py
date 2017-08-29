@@ -61,7 +61,7 @@ print('semantic label: ', dict_label)
 
 # keywords count
 with open('data/log_msg_label.txt', 'w+') as f:
-  with open('data/label_count.txt', 'w+') as lf:
+  with open('data/type_count.txt', 'w+') as lf:
     for word_list in words:
       label_dict, classify_label = keyword_count(word_list, dict_label, semantic_label)
       f.write(classify_label + '\n')
