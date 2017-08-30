@@ -50,7 +50,7 @@ def keyword_count(word_list, dict_label, semantic_dict):
   
   
 # read filtered log file
-filename = 'data/log_msg_filtered.txt'
+filename = 'data/raw_msg.txt'
 words = read_file(filename)
 #print('log sample: ', words[:9])
 
@@ -60,8 +60,8 @@ dict_label, semantic_label = semantic_dict(dir)
 print('semantic label: ', dict_label)
 
 # keywords count
-with open('data/log_msg_label.txt', 'w+') as f:
-  with open('data/type_count.txt', 'w+') as lf:
+with open('data/raw_msg_label.txt', 'w+') as f:
+  with open('data/raw_type_count.txt', 'w+') as lf:
     for word_list in words:
       label_dict, classify_label = keyword_count(word_list, dict_label, semantic_label)
       f.write(classify_label + '\n')
@@ -70,6 +70,10 @@ with open('data/log_msg_label.txt', 'w+') as f:
       print('semantic classification label: ', classify_label)
     print(label_dict)
     '''
+	{'network': 0, 'service': 0, 'database': 0, 'communication': 0, 'memory': 0, 
+	'driver': 0, 'system': 0, 'io': 0, 'application': 0, 'file': 0, 'others': 0, 
+	'security': 0, 'disk': 0, 'processor': 0}
+
     {'file': 0, 'network': 0, 'service': 0, 'database': 0, 
 	 'communication': 0, 'memory': 0, 'driver': 0, 'system': 0, 
 	 'application': 3, 'io': 0, 'others': 0, 'security': 0, 

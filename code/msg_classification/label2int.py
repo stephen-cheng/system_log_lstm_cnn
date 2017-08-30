@@ -1,8 +1,8 @@
-label_names =['file', 'network', 'service', 'database', 'communication', 'memory', 'driver', 
-             'system', 'application', 'io', 'others', 'security', 'disk', 'processor']
+label_names =['network', 'service', 'database', 'communication', 'memory', 'driver', 
+             'system', 'io', 'application', 'file', 'others', 'security', 'disk', 'processor']
 
-with open('data/log_msg_label.txt', 'r') as rf:
-  with open('data/label_index.txt', 'w+') as wf:
+with open('data/raw_msg_label.txt', 'r') as rf:
+  with open('data/raw_label_index.txt', 'w+') as wf:
     count = 0
     for line in rf.readlines():
       label = line.strip('\n')
