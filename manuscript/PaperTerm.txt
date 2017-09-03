@@ -1,0 +1,278 @@
+-----------------------------------------------------
+1.adj.
+
+the state-of-the-art	=up-to-date
+comparable		=similar
+compelling		=amazing
+in line with	=conform to
+subsequent		=next
+preceding		=bofore
+competitive
+significant		=meaningful
+available		=accessible
+superior		=excellent
+arbitrary		=random
+discriminative	=different
+implicit		=inherent
+deterministic	=certain
+diversified		=various
+plausible		=conceivable
+desirable		=needed
+appropriate		=applicable
+a multitude of	=a lot of
+suitable for
+corresponding	=consistent
+underlying	=fundamental
+off-the-shelf	=current
+striking	=noticeable
+plausible	=conceivable
+imperceptible	=slight
+lightweight	=trivial
+promising	=hopeful
+hierarchical	=ordered
+novel	=fresh
+fascinating	charming
+notable 	=oustanding
+appealing	=attractive
+robust	=strong
+feasible	=practicable
+anomalous	=abnormal
+relevant	=related
+complementary	=corresponding
+generic	=general
+sophisticated
+homogeneous	=same
+massive	=enormous
+intrinsic	=inherent
+critical	=key
+essential	=necessary
+achievable	=reachable
+cumbersome	=heavy
+appealing	=attractive
+paramount	=top
+
+
+-----------------------------------------------------
+2.adv.
+whereas		=however
+whilst		=while
+ultimately	=eventually
+indeed
+throughout	=all over
+substantially	=markedly
+consequently	=therefore
+simultaneously	=concurrently
+vigorously	=actively
+thereby		=thus
+roughly		=approximately
+progressively	=gradually
+nonetheless	=nevertheless
+holistically	=comprehensively
+Note	=However
+note that	=notice
+correspondingly	=consistently
+considerably	=greatly
+remarkably
+Notably	=particularly
+Alternatively	=on the other hand
+conversely	=on the contrary
+rather	=instead
+address	=deal with
+
+
+
+-----------------------------------------------------
+3.verb
+
+embrace		=happyly accept
+alleviate	=relieve
+strength	
+encourage
+propose		=bring up
+outperform	=beat
+surpass		=exceed
+demonstrate	=explain
+investigate
+exhibit		=show
+yield	=generate
+penalize	=punish
+employ	=use
+reveal	=make public
+manifest	=show
+pursue	=chase
+depict	=describe
+resemble	=look like
+deteriorate	=decline
+employ	=utilize
+indicate	=point out
+fuse sth. to	=combine
+harness	=use
+monitor	=watch
+leverage	=power
+partition sth. into	=divide
+match against
+drop dramatically
+
+
+-----------------------------------------------------
+4.noun
+
+property		=belongings
+counterparts	=colleague
+ground-truth	=real truth
+fashion		=method
+interpretation	=explanation
+tactic	=strategy
+histogram
+manner	=method
+projection matrice
+troubleshooting	=fault detection
+
+
+-----------------------------------------------------
+5.term
+
+In comparison with other 
+compared to previous methods
+gain key insights
+offer useful insights into
+provide insights into
+provide insights about
+allow sth. access to do
+conduct an experiment
+take advantage of 
+sth. assigned to sth.
+assign sth. to sth.
+serves as a surrogate for sth.	=agent
+indicate that
+make strong use of	=make full use of
+in keep with
+refer to as	=regard as
+performance degradation
+further gains
+build upon	
+generic approach
+in analogy to	=similar to
+be tackled with	=be dealt with
+the common workhorse
+come up with	=produce
+remain unclear
+ramain unchanged
+general-purpose	=general
+sufficient to	=enough to
+in the sense
+be tailored for	=customized for 
+differ in 
+for the purpose of	=in order to
+on a wider range of 
+investigate the effect of
+in contrast	=on the contrary
+be diagrammed in Figure 2
+pass through
+a great deal of	=a lot of
+at the scale of
+the ultimate goal
+a series of trials
+floor-level results	=worst results
+indicate that
+be effective at doing
+with respect to	=with regard to
+be dominated by
+cutting edge techniques
+confront with	=face with
+derive sth from	
+combination of
+features can be handcrafted
+bridge the divide between ... and ...
+be capable of doing	=be able to 
+excel at	=good at
+a diverse array of	=all kinds of
+set out to	=start to
+a considerable amount of	=a lot of
+a wide variety of	=various
+a varied range of
+More formally
+in the context of 
+Taken together	=In summary
+master challenging tasks	
+harness state-of-the-art machine learning techniques with sth. else to do
+the main drawback of this type of architecture is that	=disadvantage...
+in a given state
+at the same time
+a critical component of
+have a significant impact both on A and B
+be not easily scaled to 
+Crucial to sth. is the 
+To handle these problems
+enable sth. to do sth.
+have recently shown promising results in lots of tasks
+perform as well as the existing, well-developed systems on a challenging task
+One interesting observation, we make from sth. is that
+It is well established in the field that	=As we all know
+In the case of	=As for
+make much progress
+may depend heavily on
+correspond to	=amount to
+empirically evaluate
+demonstrate the superiority of
+in order to
+more thorough experiments will be required in the future
+Current research suggests that
+be suited to 
+be suitable for
+address the requirements of 
+take advantage of doing
+witness rapidly increasing
+The novelty of our work lies in
+has emerged as a valuable method for many applications
+in addition to	=as well as
+be tasked with doing	=have a task to do
+be depicted in the following graphs	=be descriped in the ...
+under the assumption that 
+apply cutting-edge techniques to solve the problem by
+as a consequence	=so
+come to the conclusion that
+methods have little systematic advantages over another when compared across many data sets
+take ... into consideration
+compared with state-of-the-art results
+have drawn considerable attention in
+have shown an impressive performance of
+obtain promising results
+it is of great importance to	=it is important to
+that matter for
+Instead of simply doing 
+obtain very competitive performance compared with state-of-the-art end-to-end models
+the tremendous amount of these works
+is mainly driven by the fact that
+Compared with these methods
+achieve remarkably good results
+achieves competitive results compared with state-of-the-art
+be characterized by
+is denoted as = is defined as 
+maintain high performance
+achieve better performance
+the proposed method works surprisingly well on
+to date	=recently
+beinferred from 
+concerning the particular algorithms =related with ...
+the property of having
+take advantage of
+have a significant impact on
+far away from each other
+put a strong emphasis on
+point of view
+it can be observed that
+with respect to
+the ever-growing number of
+the last decade	=in last ten years 
+severely impact
+it is of vital importance to
+the involved stakeholders
+a simple yet effective approach to
+be tied to
+exclusively available	=only for
+derive from	=obtain from
+be conceived with
+spanning a measurement period of a few weeks 
+
+
