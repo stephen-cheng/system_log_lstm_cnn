@@ -50,6 +50,7 @@ achievable	=reachable
 cumbersome	=heavy
 appealing	=attractive
 paramount	=top
+out-of-sample
 
 
 -----------------------------------------------------
@@ -127,6 +128,7 @@ histogram
 manner	=method
 projection matrice
 troubleshooting	=fault detection
+drawback	=disadvantage
 
 
 -----------------------------------------------------
@@ -274,5 +276,7 @@ exclusively available	=only for
 derive from	=obtain from
 be conceived with
 spanning a measurement period of a few weeks 
-
+a surge of 
+in principle	=in theory
+be meant to be	=it means that
 
