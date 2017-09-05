@@ -51,6 +51,7 @@ cumbersome	=heavy
 appealing	=attractive
 paramount	=top
 out-of-sample
+numerous	=plentiful
 
 
 -----------------------------------------------------
@@ -113,7 +114,8 @@ leverage	=power
 partition sth. into	=divide
 match against
 drop dramatically
-
+entail	=involve
+strive to	=try hard to
 
 -----------------------------------------------------
 4.noun
@@ -129,6 +131,7 @@ manner	=method
 projection matrice
 troubleshooting	=fault detection
 drawback	=disadvantage
+attribute	=characteristic
 
 
 -----------------------------------------------------
@@ -282,4 +285,11 @@ be meant to be	=it means that
 It is commonly accepted that 
 be well-suited for
 aid in doing 
+place the question of .. in the context of 
+drive research in new and more challenging directions 
+a flood of interest
+enable breakthroughs 
+a multi-year effort from 2005 to 2012 was devoted to 
+have been used extensively to 
+help catalyze progress	=promote
 
