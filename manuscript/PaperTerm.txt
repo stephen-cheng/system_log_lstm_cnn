@@ -167,5 +167,12 @@ to further supplement our dataset
 an extremely time consuming task
 As a consequence	=thus
 vastly improve	=greatly improve
-
+in comparison
+be considerablely more challenging than
+coupled with more sophisticated approaches
+improve performance substantially
+Consistent with	=along with
+a vast collection of	=a lot of
+Emphasis was placed on	= the point is 
+contain rich contextual information
 

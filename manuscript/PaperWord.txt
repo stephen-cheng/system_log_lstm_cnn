@@ -56,6 +56,7 @@ entry_level
 prohibitively expensive
 laborious task	=hard task
 coarse	=rough
+crude	=basic
 
 -----------------------------------------------------
 2.adv.
@@ -87,6 +88,7 @@ surprisingly
 adequately	=satisfactorily
 Occasionally	=sometimes
 drastically	=extremely
+substantially	=markedly
 
 
 
@@ -113,7 +115,7 @@ depict	=describe
 resemble	=look like
 deteriorate	=decline
 employ	=utilize
-indicate	=point out
+indicate	=show
 fuse sth. to	=combine
 harness	=use
 monitor	=watch
@@ -143,6 +145,7 @@ projection matrice
 troubleshooting	=fault detection
 drawback	=disadvantage
 attribute	=characteristic
-the ground truth
+the ground truth =real true
 verification	=confirmation
+advancement	=progress
 
