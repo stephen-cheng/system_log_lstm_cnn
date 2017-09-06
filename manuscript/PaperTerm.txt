@@ -1,140 +1,4 @@
 -----------------------------------------------------
-1.adj.
-
-the state-of-the-art	=up-to-date
-comparable		=similar
-compelling		=amazing
-in line with	=conform to
-subsequent		=next
-preceding		=bofore
-competitive
-significant		=meaningful
-available		=accessible
-superior		=excellent
-arbitrary		=random
-discriminative	=different
-implicit		=inherent
-deterministic	=certain
-diversified		=various
-plausible		=conceivable
-desirable		=needed
-appropriate		=applicable
-a multitude of	=a lot of
-suitable for
-corresponding	=consistent
-underlying	=fundamental
-off-the-shelf	=current
-striking	=noticeable
-plausible	=conceivable
-imperceptible	=slight
-lightweight	=trivial
-promising	=hopeful
-hierarchical	=ordered
-novel	=fresh
-fascinating	charming
-notable 	=oustanding
-appealing	=attractive
-robust	=strong
-feasible	=practicable
-anomalous	=abnormal
-relevant	=related
-complementary	=corresponding
-generic	=general
-sophisticated
-homogeneous	=same
-massive	=enormous
-intrinsic	=inherent
-critical	=key
-essential	=necessary
-achievable	=reachable
-cumbersome	=heavy
-appealing	=attractive
-paramount	=top
-out-of-sample
-numerous	=plentiful
-
-
------------------------------------------------------
-2.adv.
-whereas		=however
-whilst		=while
-ultimately	=eventually
-indeed
-throughout	=all over
-substantially	=markedly
-consequently	=therefore
-simultaneously	=concurrently
-vigorously	=actively
-thereby		=thus
-roughly		=approximately
-progressively	=gradually
-nonetheless	=nevertheless
-holistically	=comprehensively
-Note	=However
-note that	=notice
-correspondingly	=consistently
-considerably	=greatly
-remarkably
-Notably	=particularly
-Alternatively	=on the other hand
-conversely	=on the contrary
-rather	=instead
-address	=deal with
-
-
-
------------------------------------------------------
-3.verb
-
-embrace		=happyly accept
-alleviate	=relieve
-strength	
-encourage
-propose		=bring up
-outperform	=beat
-surpass		=exceed
-demonstrate	=explain
-investigate
-exhibit		=show
-yield	=generate
-penalize	=punish
-employ	=use
-reveal	=make public
-manifest	=show
-pursue	=chase
-depict	=describe
-resemble	=look like
-deteriorate	=decline
-employ	=utilize
-indicate	=point out
-fuse sth. to	=combine
-harness	=use
-monitor	=watch
-leverage	=power
-partition sth. into	=divide
-match against
-drop dramatically
-entail	=involve
-strive to	=try hard to
-
------------------------------------------------------
-4.noun
-
-property		=belongings
-counterparts	=colleague
-ground-truth	=real truth
-fashion		=method
-interpretation	=explanation
-tactic	=strategy
-histogram
-manner	=method
-projection matrice
-troubleshooting	=fault detection
-drawback	=disadvantage
-attribute	=characteristic
-
-
------------------------------------------------------
 5.term
 
 In comparison with other 
@@ -292,4 +156,16 @@ enable breakthroughs
 a multi-year effort from 2005 to 2012 was devoted to 
 have been used extensively to 
 help catalyze progress	=promote
+be relevant to	=related
+occur with
+to further augment
+vote on 1 to 5 scale
+take into account	=take into consideration
+how commonly they occur
+have the benefit that
+to further supplement our dataset
+an extremely time consuming task
+As a consequence	=thus
+vastly improve	=greatly improve
+
 
