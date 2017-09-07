@@ -178,4 +178,6 @@ contain rich contextual information
 in real-scenes
 the time consuming nature of the previous task
 be deemed appropriate	=be considered to be appropriate
-
+In a nutshell	=in short
+do better at 
+dive into the details of
