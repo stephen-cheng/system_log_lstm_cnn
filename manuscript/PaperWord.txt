@@ -57,6 +57,8 @@ prohibitively expensive
 laborious task	=hard task
 coarse	=rough
 crude	=basic
+unsanctioned	=unauthorised
+
 
 -----------------------------------------------------
 2.adv.
@@ -89,6 +91,7 @@ adequately	=satisfactorily
 Occasionally	=sometimes
 drastically	=extremely
 substantially	=markedly
+crucially	=vitally
 
 
 
@@ -128,6 +131,8 @@ strive to	=try hard to
 indicate	=point out
 filter out
 be discarded 	=be thrown away
+to allow for
+derive from
 
 
 -----------------------------------------------------
