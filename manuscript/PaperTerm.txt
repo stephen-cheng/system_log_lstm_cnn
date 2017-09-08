@@ -10,56 +10,15 @@ provide insights about
 allow sth. access to do
 conduct an experiment
 take advantage of 
-sth. assigned to sth.
-assign sth. to sth.
 serves as a surrogate for sth.	=agent
 indicate that
-make strong use of	=make full use of
-in keep with
-refer to as	=regard as
-performance degradation
-further gains
 build upon	
-generic approach
-in analogy to	=similar to
-be tackled with	=be dealt with
-the common workhorse
-come up with	=produce
-remain unclear
-ramain unchanged
-general-purpose	=general
-sufficient to	=enough to
 in the sense
-be tailored for	=customized for 
-differ in 
-for the purpose of	=in order to
-on a wider range of 
 investigate the effect of
-in contrast	=on the contrary
 be diagrammed in Figure 2
-pass through
-a great deal of	=a lot of
-at the scale of
-the ultimate goal
-a series of trials
-floor-level results	=worst results
-indicate that
-be effective at doing
-with respect to	=with regard to
-be dominated by
-cutting edge techniques
-confront with	=face with
-derive sth from	
-combination of
 features can be handcrafted
 bridge the divide between ... and ...
-be capable of doing	=be able to 
-excel at	=good at
-a diverse array of	=all kinds of
 set out to	=start to
-a considerable amount of	=a lot of
-a wide variety of	=various
-a varied range of
 More formally
 in the context of 
 Taken together	=In summary
@@ -68,7 +27,6 @@ harness state-of-the-art machine learning techniques with sth. else to do
 the main drawback of this type of architecture is that	=disadvantage...
 in a given state
 at the same time
-a critical component of
 have a significant impact both on A and B
 be not easily scaled to 
 Crucial to sth. is the 
@@ -87,8 +45,6 @@ demonstrate the superiority of
 in order to
 more thorough experiments will be required in the future
 Current research suggests that
-be suited to 
-be suitable for
 address the requirements of 
 take advantage of doing
 witness rapidly increasing
@@ -121,8 +77,6 @@ is denoted as = is defined as
 maintain high performance
 achieve better performance
 the proposed method works surprisingly well on
-to date	=recently
-beinferred from 
 concerning the particular algorithms =related with ...
 the property of having
 take advantage of
@@ -131,33 +85,18 @@ far away from each other
 put a strong emphasis on
 point of view
 it can be observed that
-with respect to
-the ever-growing number of
-the last decade	=in last ten years 
-severely impact
 it is of vital importance to
 the involved stakeholders
 a simple yet effective approach to
-be tied to
-exclusively available	=only for
-derive from	=obtain from
-be conceived with
 spanning a measurement period of a few weeks 
-a surge of 
 in principle	=in theory
 be meant to be	=it means that
 It is commonly accepted that 
-be well-suited for
-aid in doing 
 place the question of .. in the context of 
 drive research in new and more challenging directions 
-a flood of interest
-enable breakthroughs 
 a multi-year effort from 2005 to 2012 was devoted to 
 have been used extensively to 
 help catalyze progress	=promote
-be relevant to	=related
-occur with
 to further augment
 vote on 1 to 5 scale
 take into account	=take into consideration
@@ -166,13 +105,9 @@ have the benefit that
 to further supplement our dataset
 an extremely time consuming task
 As a consequence	=thus
-vastly improve	=greatly improve
-in comparison
 be considerablely more challenging than
 coupled with more sophisticated approaches
 improve performance substantially
-Consistent with	=along with
-a vast collection of	=a lot of
 Emphasis was placed on	= the point is 
 contain rich contextual information
 in real-scenes

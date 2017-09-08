@@ -58,6 +58,32 @@ laborious task	=hard task
 coarse	=rough
 crude	=basic
 unsanctioned	=unauthorised
+general-purpose	=general
+sufficient to	=enough to
+a great deal of	=a lot of
+at the scale of
+remain unclear
+ramain unchanged
+on a wider range of 
+floor-level results	=worst results
+be capable of doing	=be able to 
+be suited to 
+be suitable for
+excel at	=good at
+a diverse array of	=all kinds of
+a considerable amount of	=a lot of
+the ever-growing number of
+a vast collection of	=a lot of
+a wide variety of	=various
+a varied range of
+a critical component of
+a surge of 
+be well-suited for
+a flood of interest
+Consistent with	=along with
+be relevant to	=related
+in conformity with sth. =same as
+moderate =restrained
 
 
 -----------------------------------------------------
@@ -92,7 +118,17 @@ Occasionally	=sometimes
 drastically	=extremely
 substantially	=markedly
 crucially	=vitally
-
+with respect to	=with regard to
+be effective at doing
+in analogy to	=similar to
+in contrast	=on the contrary
+for the purpose of	=in order to
+pass through
+in comparison
+to date	=recently
+with respect to
+exclusively available	=only for
+vastly improve	=greatly improve
 
 
 -----------------------------------------------------
@@ -133,6 +169,27 @@ filter out
 be discarded 	=be thrown away
 to allow for
 derive from
+confront with	=face with
+occur with
+come up with	=produce
+be dominated by
+derive sth from
+sth. assigned to sth.
+assign sth. to sth.
+in keep with
+refer to as	=regard as
+be tackled with	=be dealt with
+be tailored for	=customized for 
+differ in 
+indicate that
+be conceived with
+be tied to
+aid in doing 
+be inferred from 
+severely impact
+derive from	=obtain from
+suffer with
+take place =go on
 
 
 -----------------------------------------------------
@@ -153,4 +210,18 @@ attribute	=characteristic
 the ground truth =real true
 verification	=confirmation
 advancement	=progress
+combination of
+make strong use of	=make full use of
+performance degradation
+further gains
+generic approach
+the common workhorse
+the ultimate goal
+a series of trials
+cutting edge techniques
+enable breakthroughs 
+the last decade	=in last ten years 
+downside	=drawback
+fashion = method
+characteristics = attributes
 
