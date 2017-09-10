@@ -129,6 +129,10 @@ to date	=recently
 with respect to
 exclusively available	=only for
 vastly improve	=greatly improve
+significantly increased 
+loosely	= roughly
+correlate with
+empirically
 
 
 -----------------------------------------------------
@@ -190,6 +194,10 @@ severely impact
 derive from	=obtain from
 suffer with
 take place =go on
+achieved effectively using
+To tackle this challenge
+blend a with b = mix with
+be inspired by
 
 
 -----------------------------------------------------
@@ -224,4 +232,8 @@ the last decade	=in last ten years
 downside	=drawback
 fashion = method
 characteristics = attributes
+with less burden of 
+in a couple of aspects
+significant improvement
+
 

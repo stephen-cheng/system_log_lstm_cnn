@@ -116,3 +116,5 @@ be deemed appropriate	=be considered to be appropriate
 In a nutshell	=in short
 do better at 
 dive into the details of
+expand the model capacity by
+via neural networks instead of dot products
