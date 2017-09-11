@@ -198,6 +198,10 @@ achieved effectively using
 To tackle this challenge
 blend a with b = mix with
 be inspired by
+refine =purify
+discriminate between the anomalies and normal instances well enough =distinguish
+embark on =start to do
+emulate =mimic
 
 
 -----------------------------------------------------
