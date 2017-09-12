@@ -3,12 +3,6 @@
 
 In comparison with other 
 compared to previous methods
-gain key insights
-offer useful insights into
-provide insights into
-provide insights about
-allow sth. access to do
-conduct an experiment
 take advantage of 
 serves as a surrogate for sth.	=agent
 indicate that
@@ -118,3 +112,6 @@ do better at
 dive into the details of
 expand the model capacity by
 via neural networks instead of dot products
+It is notable that =It is noteworthy that
+Another challenge, has briefly been discussed above as well is the fact that
+

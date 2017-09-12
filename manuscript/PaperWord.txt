@@ -76,6 +76,7 @@ the ever-growing number of
 a vast collection of	=a lot of
 a wide variety of	=various
 a varied range of
+a variety of 
 a critical component of
 a surge of 
 be well-suited for
@@ -84,6 +85,8 @@ Consistent with	=along with
 be relevant to	=related
 in conformity with sth. =same as
 moderate =restrained
+a bit more concrete =certain
+enormous =massive
 
 
 -----------------------------------------------------
@@ -133,6 +136,8 @@ significantly increased
 loosely	= roughly
 correlate with
 empirically
+make this far easier
+aside from =besides
 
 
 -----------------------------------------------------
@@ -202,6 +207,9 @@ refine =purify
 discriminate between the anomalies and normal instances well enough =distinguish
 embark on =start to do
 emulate =mimic
+allow sth. access to do
+conduct an experiment
+acquire =get
 
 
 -----------------------------------------------------
@@ -239,5 +247,10 @@ characteristics = attributes
 with less burden of 
 in a couple of aspects
 significant improvement
+gain key insights
+offer useful insights into
+provide insights into
+provide insights about
+give some more insight into
 
 
