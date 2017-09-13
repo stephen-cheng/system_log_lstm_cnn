@@ -47,6 +47,7 @@ intrinsic	=inherent
 critical	=key
 essential	=necessary
 achievable	=reachable
+feasible	=achievable
 cumbersome	=heavy
 appealing	=attractive
 paramount	=top
@@ -210,6 +211,7 @@ emulate =mimic
 allow sth. access to do
 conduct an experiment
 acquire =get
+struggle with
 
 
 -----------------------------------------------------
@@ -252,5 +254,6 @@ offer useful insights into
 provide insights into
 provide insights about
 give some more insight into
+from a business perspective
 
 
