@@ -88,6 +88,8 @@ in conformity with sth. =same as
 moderate =restrained
 a bit more concrete =certain
 enormous =massive
+immense = enormous
+out of the box
 
 
 -----------------------------------------------------
@@ -255,5 +257,6 @@ provide insights into
 provide insights about
 give some more insight into
 from a business perspective
+has a rapid decline
 
 
