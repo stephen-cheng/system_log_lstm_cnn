@@ -214,6 +214,8 @@ allow sth. access to do
 conduct an experiment
 acquire =get
 struggle with
+properly formed
+stitch together
 
 
 -----------------------------------------------------
@@ -258,5 +260,7 @@ provide insights about
 give some more insight into
 from a business perspective
 has a rapid decline
+seemingly insignificant differences
+achieves substantially better results
 
 
