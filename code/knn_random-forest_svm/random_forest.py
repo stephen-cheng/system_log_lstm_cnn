@@ -1,17 +1,18 @@
 
 # coding: utf-8
 
-# In[1]:
+# In[2]:
 
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn import cross_validation, metrics
-from sklearn.neighbors import KNeighborsClassifier
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.externals import joblib
 
 
-# # label
+# # load data
 
-# In[2]:
+# In[1]:
 
 labels = {
     '0':'file', '1':'network', '2':'service', '3':'database', '4':'communication', '5':'memory', '6':'driver', 
@@ -21,15 +22,10 @@ fault_label = {
     '0':'file', '1':'network', '2':'service', '3':'database', '5':'memory', 
     '10':'others', '11':'security', '12':'disk', '13':'processor'}
 
-
-# # load dataset
-
-# In[3]:
-
 X = []
 y = []
 
-print("loading data...")
+print("Opening dataset...")
 try:
     with open("data_msg_type/x.txt", 'rU') as f:
         res = list(f)
@@ -55,46 +51,52 @@ except:
 print("Dataset loaded.")
 
 
-# # split dataset
+# # split data
 
-# In[4]:
+# In[3]:
 
 X = np.array(X) #change to matrix
 y = np.array(y) #change to matrix (sklearn models only accept matrices)
 
 print("Separating data into 80% training set & 20% test set...")
 X_train, X_test, y_train, y_test = cross_validation.train_test_split(
-    X, y, test_size=0.2, random_state=33) # add random state here...
+    X, y, test_size=0.20, random_state=33)#random split.
 print("Dataset separated.\n")
 
 
-# # knn train
+# # random forest train
+
+# In[4]:
+
+print("---------------Random Forest---------------")
+n_estimators_list = range(1, 11) #try from one to 21 estimators.
+result_random_forests = [] #to be used later for comparing rf with different estimators.
+max_score_rf = float("-inf") #just in case we get NaN
+best_param_rf = None
+
+for trees in n_estimators_list:
+    print("Testing %d trees" % trees)
+    rf_clf = RandomForestClassifier(
+        n_estimators=trees, max_depth=None, min_samples_split=2, random_state=0)
+    scores = cross_validation.cross_val_score(
+        rf_clf, X_train, y_train, scoring="accuracy", cv=9)
+    result_random_forests.append(scores.mean())
+    if scores.mean() > max_score_rf:
+        max_score_rf = scores.mean()
+        best_param_rf = {"n_estimators": trees}
+
+
+# # test and predict
 
 # In[5]:
 
-print("---------------K Nearest Neighbors----------------")
-n_neighbors_list = range(1, 2, 1)
-result_n_neighbors = []
-max_score_knn = float("-inf")
-best_param_knn = None
+rf_clf = RandomForestClassifier(n_estimators=best_param_rf.get("n_estimators"), 
+                    max_depth=None, min_samples_split=2, random_state=0).fit(X_train, y_train)
 
-for n_neighbors in n_neighbors_list:
-    print("Testing %d nearest neighbors" % n_neighbors)
-    knn_clf = KNeighborsClassifier(n_neighbors=n_neighbors)
-    scores = cross_validation.cross_val_score(
-             knn_clf, X_train, y_train, scoring="accuracy", cv=9)
-    result_n_neighbors.append(scores.mean())
-    if scores.mean() > max_score_knn:
-        max_score_knn = scores.mean()
-        best_param_knn = {"n_neighbors": n_neighbors}
+rf_clf_test_score = rf_clf.score(X_test, y_test)
 
-
-# # test and evaluation
-
-# In[6]:
-
-knn_clf = KNeighborsClassifier(best_param_knn.get("n_neighbors")).fit(X_train, y_train)
-knn_clf_test_score = knn_clf.score(X_test, y_test)
+# save trained model for future use.
+#joblib.dump(rf_clf,'data/rf_clf.pkl', compress=9)
 
 count1 = 0
 count2 = 0
@@ -105,18 +107,20 @@ for i in range(len(X_test)):
     count2 += 1
     classinrow = X_test[i]
     classinrow = np.array(X_test[i]).reshape(1,-1)
-    predicted = knn_clf.predict(classinrow)
+    # each xval is a set of features la one sample.
+    # predict class for each row.. each i is a row.
+    predicted = rf_clf.predict(classinrow)
     actual = y_test[i]
     actualist.append(actual)
     predlist.append(predicted[0])
     if predicted == actual:
         count1 += 1
-
-print("Number of neighbors: ", len(n_neighbors_list))
-print("Train Results: ", result_n_neighbors)
-print("Best accuracy: ", max_score_knn)
-print("Best parameter: ", best_param_knn)
-print("Test set accuracy: ", knn_clf_test_score)
+print()
+print("Number of trees in forest: ", len(n_estimators_list))
+print("Results: ", result_random_forests)
+print("Best accuracy: ", max_score_rf)
+print("Best parameter: ", best_param_rf)
+print("Test set accuracy: ", rf_clf_test_score)
 
 print("Total cases: ", count2)
 print("Correct Prediction: ", count1)
@@ -125,8 +129,9 @@ print("Correct prediction rate: ", float(count1) / count2)
 
 # # plot
 
-# In[7]:
+# In[6]:
 
+# cmap can be changed to many colors, (colormaps.Oranges,OrRd, etc)
 def plot_CM(cm, title="Normalized Confusion Matrix", cmap=plt.cm.Greens):
     plt.imshow(cm, interpolation='nearest', cmap=cmap)
     plt.title(title)
@@ -138,13 +143,13 @@ def plot_CM(cm, title="Normalized Confusion Matrix", cmap=plt.cm.Greens):
     plt.ylabel("True label")
     plt.xlabel("Predicted label")
     plt.show()
-    
-print(metrics.classification_report(actualist, predlist,
-      target_names = list(fault_label.values())))
+
+print(metrics.classification_report(
+    actualist, predlist, target_names = list(fault_label.values())))
 cm = metrics.confusion_matrix(actualist, predlist)
 print(cm)
 
-# visualization
+# show a normalized matrix as a separate figure.
 cm_normalized = cm.astype('float') / cm.sum(axis=1)[:,np.newaxis]
 plt.figure()
 plot_CM(cm_normalized)

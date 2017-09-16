@@ -90,6 +90,8 @@ a bit more concrete =certain
 enormous =massive
 immense = enormous
 out of the box
+instructive = helpful
+emerging = developing
 
 
 -----------------------------------------------------
