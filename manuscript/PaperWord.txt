@@ -24,7 +24,6 @@ suitable for
 corresponding	=consistent
 underlying	=fundamental
 off-the-shelf	=current
-striking	=noticeable
 plausible	=conceivable
 imperceptible	=slight
 lightweight	=trivial
@@ -92,6 +91,8 @@ immense = enormous
 out of the box
 instructive = helpful
 emerging = developing
+striking =noticeable
+salient = noticeable
 
 
 -----------------------------------------------------
@@ -218,6 +219,7 @@ acquire =get
 struggle with
 properly formed
 stitch together
+constitute = set up = establish		
 
 
 -----------------------------------------------------
@@ -265,5 +267,6 @@ has a rapid decline
 seemingly insignificant differences
 achieves substantially better results
 a discrepancy between
+dissertation = thesis
 
 
