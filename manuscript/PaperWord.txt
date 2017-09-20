@@ -1,7 +1,8 @@
 -----------------------------------------------------
 1.adj.
 
-the state-of-the-art	=up-to-date
+the state-of-the-art = up-to-date
+off-the-shelf = ready-made
 comparable		=similar
 compelling		=amazing
 in line with	=conform to
@@ -220,6 +221,7 @@ struggle with
 properly formed
 stitch together
 constitute = set up = establish		
+set out = start
 
 
 -----------------------------------------------------
