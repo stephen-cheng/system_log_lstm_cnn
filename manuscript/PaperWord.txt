@@ -94,6 +94,7 @@ instructive = helpful
 emerging = developing
 striking =noticeable
 salient = noticeable
+be susceptible to = sensitive to
 
 
 -----------------------------------------------------
@@ -222,6 +223,9 @@ properly formed
 stitch together
 constitute = set up = establish		
 set out = start
+convey facts = express facts
+assume that = given
+tackle this problem = solve the problem
 
 
 -----------------------------------------------------
