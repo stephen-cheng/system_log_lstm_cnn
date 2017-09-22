@@ -275,5 +275,5 @@ seemingly insignificant differences
 achieves substantially better results
 a discrepancy between
 dissertation = thesis
-
+the main rationale behind the design choices of our network = the motivation behind ...
 
