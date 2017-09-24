@@ -95,6 +95,7 @@ emerging = developing
 striking =noticeable
 salient = noticeable
 be susceptible to = sensitive to
+fascinating = charming
 
 
 -----------------------------------------------------
@@ -227,6 +228,7 @@ set out = start
 convey facts = express facts
 assume that = given
 tackle this problem = solve the problem
+weed out bad ideas from good ideas = remove bad ideas ...
 
 
 -----------------------------------------------------
