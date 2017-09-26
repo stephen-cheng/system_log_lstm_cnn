@@ -96,6 +96,7 @@ striking =noticeable
 salient = noticeable
 be susceptible to = sensitive to
 fascinating = charming
+akin = similar
 
 
 -----------------------------------------------------
