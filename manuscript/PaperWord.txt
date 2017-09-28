@@ -97,7 +97,9 @@ salient = noticeable
 be susceptible to = sensitive to
 fascinating = charming
 akin = similar
-
+be consistent in 
+a big chunk of data = a lot of data
+as opposed to = versus
 
 -----------------------------------------------------
 2.adv.
@@ -149,6 +151,7 @@ empirically
 make this far easier
 aside from =besides
 has captivated the attention of scientists and artists = attract sb.
+to some extent
 
 
 -----------------------------------------------------
@@ -279,4 +282,5 @@ achieves substantially better results
 a discrepancy between
 dissertation = thesis
 the main rationale behind the design choices of our network = the motivation behind ...
+in the case of
 
