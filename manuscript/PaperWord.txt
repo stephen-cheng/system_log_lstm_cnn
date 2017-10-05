@@ -101,6 +101,8 @@ be consistent in
 a big chunk of data = a lot of data
 as opposed to = versus
 a set of = a group of 
+salient = noticeable
+ubiquitous = universal
 
 -----------------------------------------------------
 2.adv.
@@ -285,4 +287,6 @@ a discrepancy between
 dissertation = thesis
 the main rationale behind the design choices of our network = the motivation behind ...
 in the case of
+feasibility = possibility
+
 
