@@ -1,8 +1,0 @@
-APSEC2017	http://www.apsec2017.org/
-icdcs2018   http://icdcs2018.ocg.at/
-ficc2018	http://saiconference.com/FICC
-VLDB		http://vldb2018.lncc.br/
-ipdps		http://www.ipdps.org/
-
-
-
