@@ -22,5 +22,5 @@ With the widespread development of cloud computing, cluster systems are becoming
 
 ### Results Comparison 
 
-[](https://raw.githubusercontent.com/steven-cheng-com/system_log_lstm_cnn/master/code/lstm_cnn/figure/figure6.png)
+[Figure](https://raw.githubusercontent.com/steven-cheng-com/system_log_lstm_cnn/master/code/lstm_cnn/figure/figure6.png)
 
