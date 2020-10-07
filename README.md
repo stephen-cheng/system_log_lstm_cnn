@@ -1,8 +1,6 @@
-## system_log_lstm_cnn
+## System Log with LSTM & CNN
 
-train and predict log message with deep learning methods
-
----
+Train and predict log message with deep learning methods.
 
 * Paper
 
