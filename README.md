@@ -2,7 +2,7 @@
 
 train and predict log message with deep learning methods
 
--
+---
 
 * Paper
 
